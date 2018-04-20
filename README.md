@@ -22,4 +22,3 @@
 
 * Stylus
 * language-babel
-# test-base-react
